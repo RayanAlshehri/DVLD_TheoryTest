@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TheoryTest_Presentation/.vs
+/TheoryTest_Presentation/bin
+/TheoryTest_Presentation/obj
+/TheoryTest_Presentation/App.config

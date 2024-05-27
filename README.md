@@ -9,6 +9,8 @@ This project enables users to take the theory test (scheduled via [DVLD](https:/
 - Windows Forms
 - ADO.NET
 - SQL Server
+
+[Screenshots](https://drive.google.com/drive/folders/1J_Ot2_vgCD9wWzmyMnQAWfXlS-nG07og?usp=drive_link)
   
 ## Setup Instructions
 To download the DVLD project with all of its extensions, click [here](https://drive.google.com/drive/folders/1q0XTn3HVTAz0D0yIsY1Lasm0nrvzmRYm?usp=drive_link). Please follow the instructions in the `README.txt` file for correct setup.
